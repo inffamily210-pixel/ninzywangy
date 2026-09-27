@@ -155,7 +155,7 @@ MIT License - Lihat LICENSE file untuk detail
 
 ## 🆘 Support
 
-- 📧 Email: support@ninzywangy.dev
+- 📧 Email: ninzycloud@gmail.com
 - 💬 Issues: GitHub Issues
 - 📱 Mobile: Hubungi Developer
 
